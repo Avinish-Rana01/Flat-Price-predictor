@@ -1,0 +1,1 @@
+web: gunicorn flat_price_predictor.wsgi
